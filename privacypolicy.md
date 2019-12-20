@@ -54,7 +54,7 @@
 </ul>
 
 <h2>Transfer Of Data</h2>
-<p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
+<p>Your information, including Personal Data, may be transferred to вЂ” and maintained on вЂ” computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
 <p>If you are located outside Russian Federation and choose to provide information to us, please note that we transfer the data, including Personal Data, to Russian Federation and process it there.</p>
 <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
 <p>SmartBooks Live will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
@@ -86,7 +86,10 @@
 
 
 <h2>Children's Privacy</h2>
-<p>Our Service does not address anyone under the age of 18 ("Children").</p>
+<p>The only personal information we collect from users who have identified themselves as below the age of 13 are persistent identifiers (such as device ID, IDFA, IDFV, advertising ID, IP address).</p>
+
+<p>We will send push notifications only to users who allow us to do so in order to reengage them in terms of using the App. You may unsubscribe at any time by following the instructions in section Push Notifications of this Privacy Policy. We strive to ensure that the content of the push notifications will always be family-friendly. Push notifications are local, contextual and sent in app only and not from a server or in conjunction with other user information.</p>
+
 <p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
 
 
